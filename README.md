@@ -73,3 +73,22 @@
 `validation Confusion Matrix = tensor([[536.,  79.], [ 40., 845.]])  Accuracy of the network on 1500 validation images: 92.06666666666666`
 
 `test Confusion Matrix = tensor([[575.,  40.], [ 10., 875.]]) Accuracy of the network on 1500 test images: 96.66666666666667`
+
+## ResNet (Training the entire network)
+
+**Training Loss**
+
+`train Loss: 0.2089 Acc: 92.0667`
+
+**Validation Loss**
+
+`validation Loss: 0.1934 Acc: 92.6000`
+
+**Confusion Matrix and Accuracy**
+
+`train Confusion Matrix = tensor([[4282.,  637.], [ 213., 6868.]]) Accuracy of the network on 12000 train images: 92.91666666666667`
+
+`validation Confusion Matrix = tensor([[555.,  60.], [ 51., 834.]]) Accuracy of the network on 1500 validation images: 92.6`
+
+`test Confusion Matrix = tensor([[582.,  33.], [ 13., 872.]]) Accuracy of the network on 1500 test images: 96.93333333333334`
+
