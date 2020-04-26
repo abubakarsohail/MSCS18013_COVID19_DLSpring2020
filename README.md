@@ -2,6 +2,10 @@
 
 [Dataset](https://drive.google.com/drive/u/2/folders/1-FzZhQO9oHIT9SNOWYoKsuz7fe447vtR)
 
+## Models
+
+[Models](https://drive.google.com/open?id=1BCivrBXjqxLMbkSWSWKTKATDpmPUyJKd)
+
 ## ResNet (FC only after changing last layer)
 
 **Training Loss**
@@ -91,6 +95,24 @@
 `validation Confusion Matrix = tensor([[555.,  60.], [ 51., 834.]]) Accuracy of the network on 1500 validation images: 92.6`
 
 `test Confusion Matrix = tensor([[582.,  33.], [ 13., 872.]]) Accuracy of the network on 1500 test images: 96.93333333333334`
+
+## VGG (FC only)
+
+**Training Loss**
+
+`train Loss: 0.7964 Acc: 79.0250`
+
+**Validation Loss**
+
+`validation Loss: 0.4811 Acc: 85.5333`
+
+**Confusion Matrix and Accuracy**
+
+`train Confusion Matrix = tensor([[3517., 1402.], [ 412., 6669.]]) Accuracy of the network on 12000 train images: 84.88333333333334`
+
+`validation Confusion Matrix = tensor([[465., 150.], [ 67., 818.]]) Accuracy of the network on 1500 validation images: 85.53333333333333`
+
+`test Confusion Matrix = tensor([[478., 137.], [ 18., 867.]]) Accuracy of the network on 1500 test images: 89.66666666666667`
 
 ## VGG (Training last 7 layers)
 
