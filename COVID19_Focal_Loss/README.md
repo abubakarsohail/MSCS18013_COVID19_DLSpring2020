@@ -10,6 +10,10 @@
 
 ![ResNet Loss Curve](https://github.com/abubakarsohail/MSCS18013_COVID19_DLSpring2020/blob/master/images/res18_loss.png?raw=true) ![ResNet Accuracy Curve](https://github.com/abubakarsohail/MSCS18013_COVID19_DLSpring2020/blob/master/images/res18_acc.png?raw=true)
 
+![Classification Report](https://github.com/abubakarsohail/MSCS18013_COVID19_DLSpring2020/blob/master/images/res18_train?raw=true)
+
+![Confusion Matrix](https://github.com/abubakarsohail/MSCS18013_COVID19_DLSpring2020/blob/master/images/res18_train_1.png?raw=true) ![Confusion Matrix](https://github.com/abubakarsohail/MSCS18013_COVID19_DLSpring2020/blob/master/images/res18_train_2.png?raw=true) ![Confusion Matrix](https://github.com/abubakarsohail/MSCS18013_COVID19_DLSpring2020/blob/master/images/res18_train_3.png?raw=true)
+
 ## ResNet (With Focal Loss)
 
 ![ResNet Loss Curve](https://github.com/abubakarsohail/MSCS18013_COVID19_DLSpring2020/blob/master/images/res18_focal_loss.png?raw=true) ![ResNet Accuracy Curve](https://github.com/abubakarsohail/MSCS18013_COVID19_DLSpring2020/blob/master/images/res18_focal_loss_acc.png?raw=true)
