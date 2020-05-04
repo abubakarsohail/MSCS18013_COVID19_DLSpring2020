@@ -34,6 +34,22 @@
 
 ![VGG Loss Curve](https://github.com/abubakarsohail/MSCS18013_COVID19_DLSpring2020/blob/master/images/vgg16_loss.png?raw=true) ![ResNet Accuracy Curve](https://github.com/abubakarsohail/MSCS18013_COVID19_DLSpring2020/blob/master/images/vgg16_acc.png?raw=true)
 
+![Classification Report](https://github.com/abubakarsohail/MSCS18013_COVID19_DLSpring2020/blob/master/images/vgg16_train.png?raw=true)
+
+![Confusion Matrix](https://github.com/abubakarsohail/MSCS18013_COVID19_DLSpring2020/blob/master/images/vgg16_train_1.png?raw=true) ![Confusion Matrix](https://github.com/abubakarsohail/MSCS18013_COVID19_DLSpring2020/blob/master/images/vgg16_train_2.png?raw=true) ![Confusion Matrix](https://github.com/abubakarsohail/MSCS18013_COVID19_DLSpring2020/blob/master/images/vgg16_train_3.png?raw=true)
+
+![Classification Report](https://github.com/abubakarsohail/MSCS18013_COVID19_DLSpring2020/blob/master/images/vgg16_val.png?raw=true)
+
+![Confusion Matrix](https://github.com/abubakarsohail/MSCS18013_COVID19_DLSpring2020/blob/master/images/vgg16_val_1.png?raw=true) ![Confusion Matrix](https://github.com/abubakarsohail/MSCS18013_COVID19_DLSpring2020/blob/master/images/vgg16_val_2.png?raw=true) ![Confusion Matrix](https://github.com/abubakarsohail/MSCS18013_COVID19_DLSpring2020/blob/master/images/vgg16_val_3.png?raw=true)
+
 ## VGG (With Focal Loss)
 
 ![VGG Loss Curve](https://github.com/abubakarsohail/MSCS18013_COVID19_DLSpring2020/blob/master/images/vgg16_focal_loss.png?raw=true) ![ResNet Accuracy Curve](https://github.com/abubakarsohail/MSCS18013_COVID19_DLSpring2020/blob/master/images/vgg16_focal_loss_acc.png?raw=true)
+
+![Classification Report](https://github.com/abubakarsohail/MSCS18013_COVID19_DLSpring2020/blob/master/images/vgg16_focal_loss_train.png?raw=true)
+
+![Confusion Matrix](https://github.com/abubakarsohail/MSCS18013_COVID19_DLSpring2020/blob/master/images/vgg16_focal_loss_train_1.png?raw=true) ![Confusion Matrix](https://github.com/abubakarsohail/MSCS18013_COVID19_DLSpring2020/blob/master/images/vgg16_focal_loss_train_2.png?raw=true) ![Confusion Matrix](https://github.com/abubakarsohail/MSCS18013_COVID19_DLSpring2020/blob/master/images/vgg16_focal_loss_train_3.png?raw=true)
+
+![Classification Report](https://github.com/abubakarsohail/MSCS18013_COVID19_DLSpring2020/blob/master/images/vgg16_focal_loss_val.png?raw=true)
+
+![Confusion Matrix](https://github.com/abubakarsohail/MSCS18013_COVID19_DLSpring2020/blob/master/images/vgg16_focal_loss_val_1.png?raw=true) ![Confusion Matrix](https://github.com/abubakarsohail/MSCS18013_COVID19_DLSpring2020/blob/master/images/vgg16_focal_loss_val_2.png?raw=true) ![Confusion Matrix](https://github.com/abubakarsohail/MSCS18013_COVID19_DLSpring2020/blob/master/images/vgg16_focal_loss_val_3.png?raw=true)
